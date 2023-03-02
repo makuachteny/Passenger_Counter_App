@@ -1,0 +1,39 @@
+html {
+  width: 100%;
+  height: 50%;
+}
+body {
+  align-content: center;
+  background-color: greenyellow;
+}
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+h2 {
+  font-size: 80px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  height: 50px;
+  margin-bottom: 20px;
+  border-radius: 50px;
+  margin-left: 1035px;
+  text-align: center;
+}
+
+#increment-btn {
+  background: darkred;
+}
+#save-btn {
+  background: green;
+}
